@@ -6,3 +6,4 @@ test('renders learn react link', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+import metroMap from "./assets/MAPA_MI_3V.png"
